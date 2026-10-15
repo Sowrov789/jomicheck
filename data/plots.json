@@ -1,0 +1,741 @@
+[
+  {
+    "plot_id": "P-1001",
+    "deed_id": "D-2026-1001",
+    "owner_name": "Rahim Ahmed",
+    "area_decimal": 3.13,
+    "location": "Demo Zone 1, Fictional District 1",
+    "mouza": "Demo Mouza 01",
+    "dag_no": "301",
+    "khatian_no": "7001",
+    "registration_date": "2026-01-12",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2018-05-11",
+        "event": "Earlier ownership recorded",
+        "owner": "Abdul Karim",
+        "deed_id": "D-2018-8001"
+      },
+      {
+        "date": "2023-08-06",
+        "event": "Ownership transfer recorded",
+        "owner": "Rahim Ahmed",
+        "deed_id": "D-2023-9001"
+      },
+      {
+        "date": "2026-01-12",
+        "event": "Current deed entered in demo registry",
+        "owner": "Rahim Ahmed",
+        "deed_id": "D-2026-1001"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1002",
+    "deed_id": "D-2026-1002",
+    "owner_name": "Farzana Akter",
+    "area_decimal": 3.76,
+    "location": "Demo Zone 1, Fictional District 2",
+    "mouza": "Demo Mouza 02",
+    "dag_no": "302",
+    "khatian_no": "7002",
+    "registration_date": "2026-02-04",
+    "mutation_status": "Pending",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-05-12",
+        "event": "Earlier ownership recorded",
+        "owner": "Jamal Uddin",
+        "deed_id": "D-2019-8002"
+      },
+      {
+        "date": "2024-08-07",
+        "event": "Ownership transfer recorded",
+        "owner": "Farzana Akter",
+        "deed_id": "D-2024-9002"
+      },
+      {
+        "date": "2026-02-04",
+        "event": "Current deed entered in demo registry",
+        "owner": "Farzana Akter",
+        "deed_id": "D-2026-1002"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1003",
+    "deed_id": "D-2026-1003",
+    "owner_name": "Nabil Hasan",
+    "area_decimal": 4.39,
+    "location": "Demo Zone 1, Fictional District 3",
+    "mouza": "Demo Mouza 03",
+    "dag_no": "303",
+    "khatian_no": "7003",
+    "registration_date": "2026-02-17",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [
+      "Civil dispute noted in fictional sample data"
+    ],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2020-05-13",
+        "event": "Earlier ownership recorded",
+        "owner": "Momena Begum",
+        "deed_id": "D-2020-8003"
+      },
+      {
+        "date": "2022-08-08",
+        "event": "Ownership transfer recorded",
+        "owner": "Nabil Hasan",
+        "deed_id": "D-2022-9003"
+      },
+      {
+        "date": "2026-02-17",
+        "event": "Current deed entered in demo registry",
+        "owner": "Nabil Hasan",
+        "deed_id": "D-2026-1003"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1004",
+    "deed_id": "D-2026-1004",
+    "owner_name": "Maliha Noor",
+    "area_decimal": 5.02,
+    "location": "Demo Zone 1, Fictional District 4",
+    "mouza": "Demo Mouza 04",
+    "dag_no": "304",
+    "khatian_no": "7004",
+    "registration_date": "2026-03-01",
+    "mutation_status": "Completed",
+    "acquisition_status": "Under Review",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2017-05-14",
+        "event": "Earlier ownership recorded",
+        "owner": "Salma Khatun",
+        "deed_id": "D-2017-8004"
+      },
+      {
+        "date": "2023-08-09",
+        "event": "Ownership transfer recorded",
+        "owner": "Maliha Noor",
+        "deed_id": "D-2023-9004"
+      },
+      {
+        "date": "2026-03-01",
+        "event": "Current deed entered in demo registry",
+        "owner": "Maliha Noor",
+        "deed_id": "D-2026-1004"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1005",
+    "deed_id": "D-2026-1005",
+    "owner_name": "Tanim Hossain",
+    "area_decimal": 5.65,
+    "location": "Demo Zone 1, Fictional District 5",
+    "mouza": "Demo Mouza 05",
+    "dag_no": "305",
+    "khatian_no": "7005",
+    "registration_date": "2026-03-19",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2018-05-15",
+        "event": "Earlier ownership recorded",
+        "owner": "Aziz Mia",
+        "deed_id": "D-2018-8005"
+      },
+      {
+        "date": "2024-08-10",
+        "event": "Ownership transfer recorded",
+        "owner": "Tanim Hossain",
+        "deed_id": "D-2024-9005"
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Current deed entered in demo registry",
+        "owner": "Tanim Hossain",
+        "deed_id": "D-2026-1005"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1006",
+    "deed_id": "D-2026-1006",
+    "owner_name": "Sadia Islam",
+    "area_decimal": 6.28,
+    "location": "Demo Zone 2, Fictional District 1",
+    "mouza": "Demo Mouza 06",
+    "dag_no": "306",
+    "khatian_no": "7006",
+    "registration_date": "2026-04-06",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-05-16",
+        "event": "Earlier ownership recorded",
+        "owner": "Rashid Ali",
+        "deed_id": "D-2019-8006"
+      },
+      {
+        "date": "2022-08-11",
+        "event": "Ownership transfer recorded",
+        "owner": "Sadia Islam",
+        "deed_id": "D-2022-9006"
+      },
+      {
+        "date": "2026-04-06",
+        "event": "Current deed entered in demo registry",
+        "owner": "Sadia Islam",
+        "deed_id": "D-2026-1006"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1007",
+    "deed_id": "D-2026-1007",
+    "owner_name": "Arif Mahmud",
+    "area_decimal": 6.91,
+    "location": "Demo Zone 2, Fictional District 2",
+    "mouza": "Demo Mouza 07",
+    "dag_no": "307",
+    "khatian_no": "7007",
+    "registration_date": "2026-04-21",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2020-05-17",
+        "event": "Earlier ownership recorded",
+        "owner": "Shafiq Ahmed",
+        "deed_id": "D-2020-8007"
+      },
+      {
+        "date": "2023-08-12",
+        "event": "Ownership transfer recorded",
+        "owner": "Arif Mahmud",
+        "deed_id": "D-2023-9007"
+      },
+      {
+        "date": "2026-04-21",
+        "event": "Current deed entered in demo registry",
+        "owner": "Arif Mahmud",
+        "deed_id": "D-2026-1007"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1008",
+    "deed_id": "D-2026-1008",
+    "owner_name": "Nusrat Jahan",
+    "area_decimal": 7.54,
+    "location": "Demo Zone 2, Fictional District 3",
+    "mouza": "Demo Mouza 08",
+    "dag_no": "308",
+    "khatian_no": "7008",
+    "registration_date": "2026-05-10",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2017-05-18",
+        "event": "Earlier ownership recorded",
+        "owner": "Nargis Begum",
+        "deed_id": "D-2017-8008"
+      },
+      {
+        "date": "2024-08-13",
+        "event": "Ownership transfer recorded",
+        "owner": "Nusrat Jahan",
+        "deed_id": "D-2024-9008"
+      },
+      {
+        "date": "2026-05-10",
+        "event": "Current deed entered in demo registry",
+        "owner": "Nusrat Jahan",
+        "deed_id": "D-2026-1008"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1009",
+    "deed_id": "D-2026-1009",
+    "owner_name": "Imran Kabir",
+    "area_decimal": 8.17,
+    "location": "Demo Zone 2, Fictional District 4",
+    "mouza": "Demo Mouza 09",
+    "dag_no": "309",
+    "khatian_no": "7009",
+    "registration_date": "2026-05-28",
+    "mutation_status": "Pending",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2018-05-19",
+        "event": "Earlier ownership recorded",
+        "owner": "Bashir Uddin",
+        "deed_id": "D-2018-8009"
+      },
+      {
+        "date": "2022-08-14",
+        "event": "Ownership transfer recorded",
+        "owner": "Imran Kabir",
+        "deed_id": "D-2022-9009"
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Current deed entered in demo registry",
+        "owner": "Imran Kabir",
+        "deed_id": "D-2026-1009"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1010",
+    "deed_id": "D-2026-1010",
+    "owner_name": "Samira Noor",
+    "area_decimal": 8.8,
+    "location": "Demo Zone 2, Fictional District 5",
+    "mouza": "Demo Mouza 10",
+    "dag_no": "310",
+    "khatian_no": "7010",
+    "registration_date": "2026-06-02",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-05-20",
+        "event": "Earlier ownership recorded",
+        "owner": "Latif Miah",
+        "deed_id": "D-2019-8010"
+      },
+      {
+        "date": "2023-08-15",
+        "event": "Ownership transfer recorded",
+        "owner": "Samira Noor",
+        "deed_id": "D-2023-9010"
+      },
+      {
+        "date": "2026-06-02",
+        "event": "Current deed entered in demo registry",
+        "owner": "Samira Noor",
+        "deed_id": "D-2026-1010"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1011",
+    "deed_id": "D-2026-1011",
+    "owner_name": "Rafi Ahmed",
+    "area_decimal": 9.43,
+    "location": "Demo Zone 3, Fictional District 1",
+    "mouza": "Demo Mouza 11",
+    "dag_no": "311",
+    "khatian_no": "7011",
+    "registration_date": "2026-06-18",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2020-05-21",
+        "event": "Earlier ownership recorded",
+        "owner": "Kamal Hossain",
+        "deed_id": "D-2020-8011"
+      },
+      {
+        "date": "2024-08-16",
+        "event": "Ownership transfer recorded",
+        "owner": "Rafi Ahmed",
+        "deed_id": "D-2024-9011"
+      },
+      {
+        "date": "2026-06-18",
+        "event": "Current deed entered in demo registry",
+        "owner": "Rafi Ahmed",
+        "deed_id": "D-2026-1011"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1012",
+    "deed_id": "D-2026-1012",
+    "owner_name": "Jannat Sultana",
+    "area_decimal": 10.06,
+    "location": "Demo Zone 3, Fictional District 2",
+    "mouza": "Demo Mouza 12",
+    "dag_no": "312",
+    "khatian_no": "7012",
+    "registration_date": "2026-07-03",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [
+      "Boundary dispute noted in fictional sample data"
+    ],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2017-05-22",
+        "event": "Earlier ownership recorded",
+        "owner": "Rokeya Akter",
+        "deed_id": "D-2017-8012"
+      },
+      {
+        "date": "2022-08-17",
+        "event": "Ownership transfer recorded",
+        "owner": "Jannat Sultana",
+        "deed_id": "D-2022-9012"
+      },
+      {
+        "date": "2026-07-03",
+        "event": "Current deed entered in demo registry",
+        "owner": "Jannat Sultana",
+        "deed_id": "D-2026-1012"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1013",
+    "deed_id": "D-2026-1013",
+    "owner_name": "Mahin Chowdhury",
+    "area_decimal": 10.69,
+    "location": "Demo Zone 3, Fictional District 3",
+    "mouza": "Demo Mouza 13",
+    "dag_no": "313",
+    "khatian_no": "7013",
+    "registration_date": "2026-07-20",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2018-05-23",
+        "event": "Earlier ownership recorded",
+        "owner": "Mizanur Rahman",
+        "deed_id": "D-2018-8013"
+      },
+      {
+        "date": "2023-08-18",
+        "event": "Ownership transfer recorded",
+        "owner": "Mahin Chowdhury",
+        "deed_id": "D-2023-9013"
+      },
+      {
+        "date": "2026-07-20",
+        "event": "Current deed entered in demo registry",
+        "owner": "Mahin Chowdhury",
+        "deed_id": "D-2026-1013"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1014",
+    "deed_id": "D-2026-1014",
+    "owner_name": "Ayesha Karim",
+    "area_decimal": 11.32,
+    "location": "Demo Zone 3, Fictional District 4",
+    "mouza": "Demo Mouza 14",
+    "dag_no": "314",
+    "khatian_no": "7014",
+    "registration_date": "2026-08-01",
+    "mutation_status": "Completed",
+    "acquisition_status": "Acquired",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-05-24",
+        "event": "Earlier ownership recorded",
+        "owner": "Parvin Sultana",
+        "deed_id": "D-2019-8014"
+      },
+      {
+        "date": "2024-08-19",
+        "event": "Ownership transfer recorded",
+        "owner": "Ayesha Karim",
+        "deed_id": "D-2024-9014"
+      },
+      {
+        "date": "2026-08-01",
+        "event": "Current deed entered in demo registry",
+        "owner": "Ayesha Karim",
+        "deed_id": "D-2026-1014"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1015",
+    "deed_id": "D-2026-1015",
+    "owner_name": "Sakib Rahman",
+    "area_decimal": 11.95,
+    "location": "Demo Zone 3, Fictional District 5",
+    "mouza": "Demo Mouza 15",
+    "dag_no": "315",
+    "khatian_no": "7015",
+    "registration_date": "2026-08-16",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2020-05-10",
+        "event": "Earlier ownership recorded",
+        "owner": "Anwar Hossain",
+        "deed_id": "D-2020-8015"
+      },
+      {
+        "date": "2022-08-20",
+        "event": "Ownership transfer recorded",
+        "owner": "Sakib Rahman",
+        "deed_id": "D-2022-9015"
+      },
+      {
+        "date": "2026-08-16",
+        "event": "Current deed entered in demo registry",
+        "owner": "Sakib Rahman",
+        "deed_id": "D-2026-1015"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1016",
+    "deed_id": "D-2026-1016",
+    "owner_name": "Tania Das",
+    "area_decimal": 12.58,
+    "location": "Demo Zone 4, Fictional District 1",
+    "mouza": "Demo Mouza 16",
+    "dag_no": "316",
+    "khatian_no": "7016",
+    "registration_date": "2026-08-29",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2017-05-11",
+        "event": "Earlier ownership recorded",
+        "owner": "Rina Das",
+        "deed_id": "D-2017-8016"
+      },
+      {
+        "date": "2023-08-21",
+        "event": "Ownership transfer recorded",
+        "owner": "Tania Das",
+        "deed_id": "D-2023-9016"
+      },
+      {
+        "date": "2026-08-29",
+        "event": "Current deed entered in demo registry",
+        "owner": "Tania Das",
+        "deed_id": "D-2026-1016"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1017",
+    "deed_id": "D-2026-1017",
+    "owner_name": "Fahim Uddin",
+    "area_decimal": 13.21,
+    "location": "Demo Zone 4, Fictional District 2",
+    "mouza": "Demo Mouza 17",
+    "dag_no": "317",
+    "khatian_no": "7017",
+    "registration_date": "2026-09-04",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2018-05-12",
+        "event": "Earlier ownership recorded",
+        "owner": "Monir Uddin",
+        "deed_id": "D-2018-8017"
+      },
+      {
+        "date": "2024-08-22",
+        "event": "Ownership transfer recorded",
+        "owner": "Fahim Uddin",
+        "deed_id": "D-2024-9017"
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Current deed entered in demo registry",
+        "owner": "Fahim Uddin",
+        "deed_id": "D-2026-1017"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1018",
+    "deed_id": "D-2026-1018",
+    "owner_name": "Samira Noor",
+    "area_decimal": 13.84,
+    "location": "Demo Zone 4, Fictional District 3",
+    "mouza": "Demo Mouza 18",
+    "dag_no": "318",
+    "khatian_no": "7018",
+    "registration_date": "2026-09-18",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-05-13",
+        "event": "Earlier ownership recorded",
+        "owner": "Abdul Mannan",
+        "deed_id": "D-2019-8018"
+      },
+      {
+        "date": "2022-08-23",
+        "event": "Ownership transfer recorded",
+        "owner": "Samira Noor",
+        "deed_id": "D-2022-9018"
+      },
+      {
+        "date": "2026-09-18",
+        "event": "Current deed entered in demo registry (entry A)",
+        "owner": "Samira Noor",
+        "deed_id": "D-2026-1018"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1019",
+    "deed_id": "D-2026-1019",
+    "owner_name": "Omar Faruk",
+    "area_decimal": 14.47,
+    "location": "Demo Zone 4, Fictional District 4",
+    "mouza": "Demo Mouza 19",
+    "dag_no": "319",
+    "khatian_no": "7019",
+    "registration_date": "2026-09-27",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2020-05-14",
+        "event": "Earlier ownership recorded",
+        "owner": "Habibullah Mia",
+        "deed_id": "D-2020-8019"
+      },
+      {
+        "date": "2023-08-24",
+        "event": "Ownership transfer recorded",
+        "owner": "Omar Faruk",
+        "deed_id": "D-2023-9019"
+      },
+      {
+        "date": "2026-09-27",
+        "event": "Current deed entered in demo registry",
+        "owner": "Omar Faruk",
+        "deed_id": "D-2026-1019"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1020",
+    "deed_id": "D-2026-1020",
+    "owner_name": "Sharmeen Akter",
+    "area_decimal": 15.1,
+    "location": "Demo Zone 4, Fictional District 5",
+    "mouza": "Demo Mouza 20",
+    "dag_no": "320",
+    "khatian_no": "7020",
+    "registration_date": "2026-10-02",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2017-05-15",
+        "event": "Earlier ownership recorded",
+        "owner": "Nurul Islam",
+        "deed_id": "D-2017-8020"
+      },
+      {
+        "date": "2024-08-05",
+        "event": "Ownership transfer recorded",
+        "owner": "Sharmeen Akter",
+        "deed_id": "D-2024-9020"
+      },
+      {
+        "date": "2026-10-02",
+        "event": "Current deed entered in demo registry",
+        "owner": "Sharmeen Akter",
+        "deed_id": "D-2026-1020"
+      }
+    ]
+  },
+  {
+    "plot_id": "P-1018",
+    "deed_id": "D-2026-1018B",
+    "owner_name": "Imran Kabir",
+    "area_decimal": 13.84,
+    "location": "Demo Zone 4, Fictional District 3",
+    "mouza": "Demo Mouza 18",
+    "dag_no": "318",
+    "khatian_no": "7018",
+    "registration_date": "2026-09-21",
+    "mutation_status": "Completed",
+    "acquisition_status": "Clear",
+    "pending_cases": [],
+    "deed_status": "Active",
+    "ownership_history": [
+      {
+        "date": "2019-03-12",
+        "event": "Earlier ownership recorded",
+        "owner": "Latif Miah",
+        "deed_id": "D-2019-8818"
+      },
+      {
+        "date": "2024-04-10",
+        "event": "Ownership transfer recorded",
+        "owner": "Imran Kabir",
+        "deed_id": "D-2024-9918"
+      },
+      {
+        "date": "2026-09-21",
+        "event": "Current deed entered in demo registry (entry B)",
+        "owner": "Imran Kabir",
+        "deed_id": "D-2026-1018B"
+      }
+    ]
+  }
+]
